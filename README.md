@@ -72,7 +72,7 @@ In order to get the correct data using the API, several requirements must be ful
 PLUGINS_CONFIG = {
     'netbox_cisco_support': {
         ...,
-        'manufacturer': 'Cisco Systems' # Optional setting for definiing the manufacturer
+        'manufacturer': 'Cisco Systems' # Optional setting to specify the manufacturer (Cisco by default)
     }
 }
 ```
